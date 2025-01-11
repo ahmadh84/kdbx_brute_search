@@ -5,7 +5,7 @@ Requires installing kpcli: `pip install kpcli`.
 
 Example:
 ```
-python permute_words.py \
+python search_kdbx.py \
   --words_filepath=test/test_wordlist \
   --output_filepath=/tmp/test_pwds \
   --min_optional=1 \
